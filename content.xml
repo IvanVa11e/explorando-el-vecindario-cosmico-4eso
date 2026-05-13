@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513213807ISS8ZR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260513213807LVYSJ2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Explorando el vecindario cósmico</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CDD-B2/SdA/Eva Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eva Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA para estudiantes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778610246107</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡Despegamos!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Despegamos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡Despegamos!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odePageId>
+      <odeBlockId>block-1778608549410-hkm5a3piq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odePageId>
+          <odeBlockId>block-1778608549410-hkm5a3piq</odeBlockId>
+          <odeIdeviceId>idevice-1778608549408-c98x3htls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenidos/as pequeños/as astronautas!</p>
+<p>En esta <strong>unidad</strong> descubriremos los secretos que se encuentran más allá de nuestra órbita, aquellos <strong>planetas</strong> que nos acompañan en nuestro giro alrededor de una misma estrella.</p>
+<p>Comenzaremos eligiendo el planeta del <strong>Sistema Solar</strong> sobre el que vamos a trabajar, y sobre él haremos: una <strong>infografía</strong> individual y un <strong>podcast</strong> en grupo. Despediremos la unidad de una manera muy especial, escuchando todos los podcast de manera conjunta en clase.</p>
+<p>Os dejo aquí una <strong>infografía resumen</strong> de los puntos clave.</p>
+<p><img src="{{context_path}}/content/resources/Explorando el vecindario cósmico Roadmap educativo para 4º de ESO.pdf" width="600" height="1500" alt="Infografía resumen" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>¿Listos?</p>
+<p>Poneos el casco y comprobar últimos ajustes, ¡que este cohete despegaaa!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608549408-c98x3htls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos/as pequeños/as astronautas!</p>\n<p>En esta <strong>unidad</strong> descubriremos los secretos que se encuentran más allá de nuestra órbita, aquellos <strong>planetas</strong> que nos acompañan en nuestro giro alrededor de una misma estrella.</p>\n<p>Comenzaremos eligiendo el planeta del <strong>Sistema Solar</strong> sobre el que vamos a trabajar, y sobre él haremos: una <strong>infografía</strong> individual y un <strong>podcast</strong> en grupo. Despediremos la unidad de una manera muy especial, escuchando todos los podcast de manera conjunta en clase.</p>\n<p>Os dejo aquí una <strong>infografía resumen</strong> de los puntos clave.</p>\n<p><img src=\"{{context_path}}/content/resources/Explorando el vecindario cósmico Roadmap educativo para 4º de ESO.pdf\" width=\"600\" height=\"1500\" alt=\"Infografía resumen\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>¿Listos?</p>\n<p>Poneos el casco y comprobar últimos ajustes, ¡que este cohete despegaaa!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778440783515-obd5exjwq</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Cómo empezar</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cómo empezar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778440783515-obd5exjwq</odePageId>
+      <odeBlockId>block-1778440785884-zn3rcxqmg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778440783515-obd5exjwq</odePageId>
+          <odeBlockId>block-1778440785884-zn3rcxqmg</odeBlockId>
+          <odeIdeviceId>idevice-1778440785883-3ghxzuc28</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez tengáis asignado el planeta sobre el que vais a trabajar, utilizaremos las siguientes herramientas para llevar a cabo la misión:</p>
+<ul>
+<li><a href="https://www.solarsystemscope.com"><strong title="">Solar System Scope</strong></a>: vuestro centro de mando para investigar datos fiables en tiempo real.</li>
+<li><a href="https://www.canva.com"><strong title="">Canva</strong></a>: para dar vida a vuestras infografías interactivas.</li>
+<li><strong>Herramientas de audio</strong>: para grabar el podcast que nos llevará a otros mundos.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778440785883-3ghxzuc28","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez tengáis asignado el planeta sobre el que vais a trabajar, utilizaremos las siguientes herramientas para llevar a cabo la misión:</p>\n<ul>\n<li><a href=\"https://www.solarsystemscope.com\"><strong title=\"\">Solar System Scope</strong></a>: vuestro centro de mando para investigar datos fiables en tiempo real.</li>\n<li><a href=\"https://www.canva.com\"><strong title=\"\">Canva</strong></a>: para dar vida a vuestras infografías interactivas.</li>\n<li><strong>Herramientas de audio</strong>: para grabar el podcast que nos llevará a otros mundos.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778440930613-zlyc9myr8</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Infografía</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778440930613-zlyc9myr8</odePageId>
+      <odeBlockId>block-1778440959600-v2k7inyx9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778440930613-zlyc9myr8</odePageId>
+          <odeBlockId>block-1778440959600-v2k7inyx9</odeBlockId>
+          <odeIdeviceId>idevice-1778440959598-xyul78uqr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De forma individual, diseñaréis una <strong>infografía en <a href="https://www.canva.com" title="">Canva</a> </strong>sobre el planeta elegido.</p>
+<p><strong>¿Qué debe tener mi infografía?</strong></p>
+<ul>
+<li>Fotografía/dibujo del planeta</li>
+<li>Datos interesantes: periodos de rotación, periodos de traslacióntraslación, distancia al Sol, número de satélites, cómo se descubrió, composición de la atmósfera, Tª día/noche...</li>
+<li>Al menos un elemento interactivo (botones, enlaces o vídeos ocultos)</li>
+<li>Nombre con iniciales</li>
+<li>Curso</li>
+<li>Materia</li>
+<li>Profesora (Eva Martínez Lombardía)</li>
+<li>Fecha de entrega</li>
+<li>Centro (IES David Vázquez Martínez)</li>
+<li>Bibliografía consultada</li>
+</ul>
+<p><strong>¿Cómo entregar mi infografía?</strong><br />A través de la tarea abierta en <strong>Teams</strong> dedicada a ello, en <strong>formato pdf</strong>. La fecha límite es el <strong>viernes 8 de mayo</strong>.</p>
+<p><strong>¿Cómo va a ser evaluada mi infografia?</strong></p>
+<p>Se completará la siguiente <strong>lista de cotejo</strong>. Cada apartado evaluado como sí, se calificará con 1 punto, siendo el máximo posible 10 puntos para una infografía perfecta.</p>
+<table border="1" style="width: 100%; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%; text-align: center;">Sí</td>
+<td style="width: 33.290488%; text-align: center;">No</td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">
+<p>1. Aparece el nombre del planeta y su posición respecto al Sol.</p>
+</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">
+<p>2. Incluye datos precisos de radio, masa, gravedad y temperatura media.</p>
+</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">
+<p>3. Describe la estructura interna, superficie y composición atmosférica.</p>
+</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">4. Indica correctamente los periodos de rotación (día) y traslación (año).</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">5. Aparecen todos los datos mínimos requeridos (nombre con iniciales, curso, materia, centro educativo, profesor, fecha de entrega).</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">6. Contiene al menos un elemento funcional (enlace, vídeo o ventana emergente).</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">7. La información está organizada con títulos y secciones que facilitan la lectura.</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">8. Hay al menos una imagen o esquema del planeta, es nítido y guarda relación con el texto.</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">9. Cita en la bibliografía la fuente principal (Solar System Scope) y se presenta con orden y limpieza.</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">10. La infografía es atractiva. Los colores del fondo y texto son adecuados para facilitar la lectura.</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778440959598-xyul78uqr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De forma individual, diseñaréis una <strong>infografía en <a href=\"https://www.canva.com\" title=\"\">Canva</a> </strong>sobre el planeta elegido.</p>\n<p><strong>¿Qué debe tener mi infografía?</strong></p>\n<ul>\n<li>Fotografía/dibujo del planeta</li>\n<li>Datos interesantes: periodos de rotación, periodos de traslacióntraslación, distancia al Sol, número de satélites, cómo se descubrió, composición de la atmósfera, Tª día/noche...</li>\n<li>Al menos un elemento interactivo (botones, enlaces o vídeos ocultos)</li>\n<li>Nombre con iniciales</li>\n<li>Curso</li>\n<li>Materia</li>\n<li>Profesora (Eva Martínez Lombardía)</li>\n<li>Fecha de entrega</li>\n<li>Centro (IES David Vázquez Martínez)</li>\n<li>Bibliografía consultada</li>\n</ul>\n<p><strong>¿Cómo entregar mi infografía?</strong><br />A través de la tarea abierta en <strong>Teams</strong> dedicada a ello, en <strong>formato pdf</strong>. La fecha límite es el <strong>viernes 8 de mayo</strong>.</p>\n<p><strong>¿Cómo va a ser evaluada mi infografia?</strong></p>\n<p>Se completará la siguiente <strong>lista de cotejo</strong>. Cada apartado evaluado como sí, se calificará con 1 punto, siendo el máximo posible 10 puntos para una infografía perfecta.</p>\n<table border=\"1\" style=\"width: 100%; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%; text-align: center;\">Sí</td>\n<td style=\"width: 33.290488%; text-align: center;\">No</td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">\n<p>1. Aparece el nombre del planeta y su posición respecto al Sol.</p>\n</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">\n<p>2. Incluye datos precisos de radio, masa, gravedad y temperatura media.</p>\n</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">\n<p>3. Describe la estructura interna, superficie y composición atmosférica.</p>\n</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">4. Indica correctamente los periodos de rotación (día) y traslación (año).</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">5. Aparecen todos los datos mínimos requeridos (nombre con iniciales, curso, materia, centro educativo, profesor, fecha de entrega).</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">6. Contiene al menos un elemento funcional (enlace, vídeo o ventana emergente).</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">7. La información está organizada con títulos y secciones que facilitan la lectura.</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">8. Hay al menos una imagen o esquema del planeta, es nítido y guarda relación con el texto.</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">9. Cita en la bibliografía la fuente principal (Solar System Scope) y se presenta con orden y limpieza.</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">10. La infografía es atractiva. Los colores del fondo y texto son adecuados para facilitar la lectura.</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778528623615-m8ryqxj0z</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Podcast</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Podcast</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778528623615-m8ryqxj0z</odePageId>
+      <odeBlockId>block-1778528626837-pyfogtcp0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778528623615-m8ryqxj0z</odePageId>
+          <odeBlockId>block-1778528626837-pyfogtcp0</odeBlockId>
+          <odeIdeviceId>idevice-1778528626835-lpzo3hh9q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En grupos de tres, redactaréis y grabaréis un <strong>podcast</strong> que narre la información principal sobre el planeta que habéis investigado.</p>
+<p>Para ello, <strong>primero</strong> será necesario repartir los <strong>roles en el grupo</strong> (un secretario que tome nota de las decisiones, un guionista que se encargue del cuerpo del guion, un narrador principal...).</p>
+<p>En <strong>segundo</strong> lugar, comenzaréis a trabajar en el <strong>guion</strong>. Se premiará la creatividad, la armonía entre voces, así como el contenido científico que previamente habéis investigado para la infografía. Recordad enseñarlo para su validación antes de comenzar a grabar.</p>
+<p>Por <strong>último</strong>, <strong>grabaremos los podcast</strong>. Se hará en una sesión en clase, por grupos, a través del programa <strong>Quick Time Player</strong>. En otra pestaña os dejo un manual para su manejo (es muy sencillo e intuitivo). Los podcast deben ser de mínimo 1 y máximo 5 minutos.</p>
+<p>¿Qué debe tener mi podcast?</p>
+<ul>
+<li>Nombre de los participantes</li>
+<li>Curso</li>
+<li>Materia</li>
+<li>Profesora (Eva Martínez Lombardía)<br /></li>
+<li>Centro (IES David Vázquez Martínez)<br /></li>
+<li>Fecha de grabación</li>
+<li>Duración de entre 1-5 minutos</li>
+<li>Resumen de la información más relevante sobre mi planeta</li>
+<li>La máxima creatividad, fluidez y ritmo posible (el objetivo es mantener atento al oyente)</li>
+</ul>
+<p>¿Cómo entregar mi podcast?<br />A través de la tarea abierta en <strong>Teams</strong> dedicada a ello, en <strong>formato m4a</strong>. La fecha límite es el <strong>martes 12 de mayo</strong>.</p>
+<p>¿Cómo va a ser evaluado mi podcast?</p>
+<p>Se completará la siguiente <strong>lista de cotejo</strong>. Cada apartado evaluado como sí, se calificará con 1 punto, siendo el máximo posible 10 puntos para un podcast perfecto.</p>
+<table style="width: 100%; height: 330px;" border="1">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px; text-align: center;">Sí</td>
+<td style="width: 33.290488%; height: 33px; text-align: center;">No</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">
+<p>1. El podcast se centra exclusivamente en el planeta asignado y sus características.</p>
+</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">2. Incluye datos técnicos correctos y actualizados (clima, atmósfera, curiosidades).</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">3. El formato es creativo (entrevista, reportaje, diario de viaje) y no es una mera lectura de datos.</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">4. Cuenta con una introducción clara, un desarrollo organizado y una despedida/conclusión.</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">5. Se percibe la participación equilibrada de los tres integrantes del grupo en el audio.</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">6. La dicción es clara, el ritmo es adecuado (ni muy rápido ni muy lento) y el tono es motivador.</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">7. El audio es nítido, sin ruidos de fondo molestos y con un volumen equilibrado.</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">8. Se citan todos los elementos básicos pedidos (nombre de los participantes, nombre del centro, curso, materia, nombre del profesor/a, fecha).</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.290488%; height: 33px;">9. El podcast se ajusta al tiempo estipulado (mínimo 1 minuto, máximo 5 minutos).</td>
+<td style="width: 33.290488%; height: 33px;"><br /></td>
+<td style="width: 33.290488%; height: 33px;"></td>
+</tr>
+<tr>
+<td style="width: 33.290488%;">10. Se usan términos técnicos pero en un lenguaje comprensible para sus compañeros, utilizando analogías o comparativas (p. ej. con la Tierra o objetos cotidianos) que facilitan la comprensión de magnitudes astronómicas.</td>
+<td style="width: 33.290488%;"><br /></td>
+<td style="width: 33.290488%;"><br /></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778528626835-lpzo3hh9q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En grupos de tres, redactaréis y grabaréis un <strong>podcast</strong> que narre la información principal sobre el planeta que habéis investigado.</p>\n<p>Para ello, <strong>primero</strong> será necesario repartir los <strong>roles en el grupo</strong> (un secretario que tome nota de las decisiones, un guionista que se encargue del cuerpo del guion, un narrador principal...).</p>\n<p>En <strong>segundo</strong> lugar, comenzaréis a trabajar en el <strong>guion</strong>. Se premiará la creatividad, la armonía entre voces, así como el contenido científico que previamente habéis investigado para la infografía. Recordad enseñarlo para su validación antes de comenzar a grabar.</p>\n<p>Por <strong>último</strong>, <strong>grabaremos los podcast</strong>. Se hará en una sesión en clase, por grupos, a través del programa <strong>Quick Time Player</strong>. En otra pestaña os dejo un manual para su manejo (es muy sencillo e intuitivo). Los podcast deben ser de mínimo 1 y máximo 5 minutos.</p>\n<p>¿Qué debe tener mi podcast?</p>\n<ul>\n<li>Nombre de los participantes</li>\n<li>Curso</li>\n<li>Materia</li>\n<li>Profesora (Eva Martínez Lombardía)<br /></li>\n<li>Centro (IES David Vázquez Martínez)<br /></li>\n<li>Fecha de grabación</li>\n<li>Duración de entre 1-5 minutos</li>\n<li>Resumen de la información más relevante sobre mi planeta</li>\n<li>La máxima creatividad, fluidez y ritmo posible (el objetivo es mantener atento al oyente)</li>\n</ul>\n<p>¿Cómo entregar mi podcast?<br />A través de la tarea abierta en <strong>Teams</strong> dedicada a ello, en <strong>formato m4a</strong>. La fecha límite es el <strong>martes 12 de mayo</strong>.</p>\n<p>¿Cómo va a ser evaluado mi podcast?</p>\n<p>Se completará la siguiente <strong>lista de cotejo</strong>. Cada apartado evaluado como sí, se calificará con 1 punto, siendo el máximo posible 10 puntos para un podcast perfecto.</p>\n<table style=\"width: 100%; height: 330px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px; text-align: center;\">Sí</td>\n<td style=\"width: 33.290488%; height: 33px; text-align: center;\">No</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">\n<p>1. El podcast se centra exclusivamente en el planeta asignado y sus características.</p>\n</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">2. Incluye datos técnicos correctos y actualizados (clima, atmósfera, curiosidades).</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">3. El formato es creativo (entrevista, reportaje, diario de viaje) y no es una mera lectura de datos.</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">4. Cuenta con una introducción clara, un desarrollo organizado y una despedida/conclusión.</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">5. Se percibe la participación equilibrada de los tres integrantes del grupo en el audio.</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">6. La dicción es clara, el ritmo es adecuado (ni muy rápido ni muy lento) y el tono es motivador.</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">7. El audio es nítido, sin ruidos de fondo molestos y con un volumen equilibrado.</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">8. Se citan todos los elementos básicos pedidos (nombre de los participantes, nombre del centro, curso, materia, nombre del profesor/a, fecha).</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.290488%; height: 33px;\">9. El podcast se ajusta al tiempo estipulado (mínimo 1 minuto, máximo 5 minutos).</td>\n<td style=\"width: 33.290488%; height: 33px;\"><br /></td>\n<td style=\"width: 33.290488%; height: 33px;\"></td>\n</tr>\n<tr>\n<td style=\"width: 33.290488%;\">10. Se usan términos técnicos pero en un lenguaje comprensible para sus compañeros, utilizando analogías o comparativas (p. ej. con la Tierra o objetos cotidianos) que facilitan la comprensión de magnitudes astronómicas.</td>\n<td style=\"width: 33.290488%;\"><br /></td>\n<td style=\"width: 33.290488%;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778606431036-9pl2f9dh1</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Cuestionario final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778606431036-9pl2f9dh1</odePageId>
+      <odeBlockId>block-1778606433309-kyz0prrrf</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778606431036-9pl2f9dh1</odePageId>
+          <odeBlockId>block-1778606433309-kyz0prrrf</odeBlockId>
+          <odeIdeviceId>idevice-1778606433307-b7vmu1f8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tras la entrega de la infografía y los podcast, vamos a poner a prueba todo lo aprendido y trabajado. Lo haremos a través de un <strong>pequeño cuestionario en clase</strong>, que se resolverá de una manera muy especial mientras escuchamos los podcast.</p>
+<p>¿Cómo ayudar a la última misión?</p>
+<p>Mandar al docente, a través de un mensaje por Teams, <strong>tres preguntas </strong>que se contesten con <strong>información explicada en tu podcast</strong>. La fecha de entrega de las preguntas es el <strong>lunes 11 de mayo</strong>.</p>
+<p>De esta manera, crearemos un cuestionario con la participación de todos los grupos, y nos aseguraremos que nuestro podcast ha sido disfrutado y comprendido por todos ;)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778606433307-b7vmu1f8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tras la entrega de la infografía y los podcast, vamos a poner a prueba todo lo aprendido y trabajado. Lo haremos a través de un <strong>pequeño cuestionario en clase</strong>, que se resolverá de una manera muy especial mientras escuchamos los podcast.</p>\n<p>¿Cómo ayudar a la última misión?</p>\n<p>Mandar al docente, a través de un mensaje por Teams, <strong>tres preguntas </strong>que se contesten con <strong>información explicada en tu podcast</strong>. La fecha de entrega de las preguntas es el <strong>lunes 11 de mayo</strong>.</p>\n<p>De esta manera, crearemos un cuestionario con la participación de todos los grupos, y nos aseguraremos que nuestro podcast ha sido disfrutado y comprendido por todos ;)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778606961322-igii8f1xz</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>QuickTime Player guia</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>QuickTime Player guia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778606961322-igii8f1xz</odePageId>
+      <odeBlockId>block-1778607088462-kly99a1uc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778606961322-igii8f1xz</odePageId>
+          <odeBlockId>block-1778607088462-kly99a1uc</odeBlockId>
+          <odeIdeviceId>idevice-1778607088460-4nd0ep5ss</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/ts1f6OzKRiM" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778607088460-4nd0ep5ss","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ts1f6OzKRiM\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778607168024-mfyhzulo7</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Preguntas tipo para el cuestionario</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Preguntas tipo para el cuestionario</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778607168024-mfyhzulo7</odePageId>
+      <odeBlockId>block-1778700443011-b60o63okp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778607168024-mfyhzulo7</odePageId>
+          <odeBlockId>block-1778700443011-b60o63okp</odeBlockId>
+          <odeIdeviceId>idevice-1778700443009-49yc5xxze</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las <strong>preguntas</strong> deben ser de un <strong>nivel medio</strong>, ni muy sencillas ("¿sobre qué planeta está hablando el podcast?"), ni muy exactas ("¿qué diámetro tiene la luna más grande de Saturno?"). Es importante que comprobéis que se ven <strong>contestadas en vuestro podcast</strong>.</p>
+<p><br />Aquí te detallo algunos <strong>ejemplos</strong>. Puedes comprobar tus conocimientos contestándolas ;)</p>
+<p>- ¿Por qué elementos está compuesto en su mayoría el Sol?<br />- ¿Por qué Mercurio posee un núcleo de hierro proporcionalmente tan grande en comparación con su corteza?<br />- ¿Como el enfriamiento del núcleo de Marte, la pérdida de su campo magnético y la subsiguiente, pérdida atmosférica y océanos, se reflejan en la geología actual del planeta?<br />- ¿Qué fenómeno específico de nuestros océanos es provocado por la fuerza de gravedad de la Luna?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778700443009-49yc5xxze","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las <strong>preguntas</strong> deben ser de un <strong>nivel medio</strong>, ni muy sencillas (\"¿sobre qué planeta está hablando el podcast?\"), ni muy exactas (\"¿qué diámetro tiene la luna más grande de Saturno?\"). Es importante que comprobéis que se ven <strong>contestadas en vuestro podcast</strong>.</p>\n<p><br />Aquí te detallo algunos <strong>ejemplos</strong>. Puedes comprobar tus conocimientos contestándolas ;)</p>\n<p>- ¿Por qué elementos está compuesto en su mayoría el Sol?<br />- ¿Por qué Mercurio posee un núcleo de hierro proporcionalmente tan grande en comparación con su corteza?<br />- ¿Como el enfriamiento del núcleo de Marte, la pérdida de su campo magnético y la subsiguiente, pérdida atmosférica y océanos, se reflejan en la geología actual del planeta?<br />- ¿Qué fenómeno específico de nuestros océanos es provocado por la fuerza de gravedad de la Luna?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778607188507-q21317t6m</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Glosario de términos astronómicos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glosario de términos astronómicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778607188507-q21317t6m</odePageId>
+      <odeBlockId>block-1778608183722-dtoulklnw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778607188507-q21317t6m</odePageId>
+          <odeBlockId>block-1778608183722-dtoulklnw</odeBlockId>
+          <odeIdeviceId>idevice-1778608183712-txtuu3nuq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Año luz</strong>: Unidad de distancia que equivale a la distancia que recorre la luz en un año (aprox. 9,46 billones de km). Se usa para objetos fuera de nuestro Sistema Solar.</li>
+<li><strong>Asteroide</strong>: Objeto rocoso, más pequeño que un planeta, que orbita alrededor del Sol.</li>
+<li><strong>Cometa</strong>: Cuerpo celeste constituido por hielo, polvo y rocas que orbita el Sol siguiendo órbitas muy elípticas. Al acercarse al Sol, desarrolla una "cola" brillante.</li>
+<li><strong>Gravedad</strong>: Fuerza de atracción que un cuerpo celeste ejerce sobre otros objetos. Depende de la masa del cuerpo; a mayor masa, mayor gravedad.</li>
+<li><strong>Órbita</strong>: Trayectoria curva que recorre un cuerpo celeste (como un planeta o satélite) alrededor de otro bajo la influencia de la gravedad.</li>
+<li><strong>Planeta</strong>: Cuerpo celeste que orbita una estrella, tiene forma casi esférica y ha "limpiado" su órbita de otros objetos.</li>
+<li><strong>Planeta</strong> <strong>enano</strong>: Cuerpo que orbita el Sol y es esférico, pero no ha limpiado su órbita.</li>
+<li><strong>Rotación</strong>: Movimiento de un planeta al girar sobre su propio eje. Determina la duración del día.</li>
+<li><strong>Satélite</strong> <strong>natural</strong>: Cuerpo celeste sólido que orbita alrededor de un planeta.</li>
+<li><strong>Traslación</strong>: Movimiento de un planeta alrededor del Sol. Determina la duración del año.</li>
+<li><strong>Unidad Astronómica (UA)</strong>: Unidad de distancia equivalente a la distancia media entre la Tierra y el Sol (aprox. 150 millones de km). Es la medida estándar dentro de nuestro Sistema Solar.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608183712-txtuu3nuq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Año luz</strong>: Unidad de distancia que equivale a la distancia que recorre la luz en un año (aprox. 9,46 billones de km). Se usa para objetos fuera de nuestro Sistema Solar.</li>\n<li><strong>Asteroide</strong>: Objeto rocoso, más pequeño que un planeta, que orbita alrededor del Sol.</li>\n<li><strong>Cometa</strong>: Cuerpo celeste constituido por hielo, polvo y rocas que orbita el Sol siguiendo órbitas muy elípticas. Al acercarse al Sol, desarrolla una \"cola\" brillante.</li>\n<li><strong>Gravedad</strong>: Fuerza de atracción que un cuerpo celeste ejerce sobre otros objetos. Depende de la masa del cuerpo; a mayor masa, mayor gravedad.</li>\n<li><strong>Órbita</strong>: Trayectoria curva que recorre un cuerpo celeste (como un planeta o satélite) alrededor de otro bajo la influencia de la gravedad.</li>\n<li><strong>Planeta</strong>: Cuerpo celeste que orbita una estrella, tiene forma casi esférica y ha \"limpiado\" su órbita de otros objetos.</li>\n<li><strong>Planeta</strong> <strong>enano</strong>: Cuerpo que orbita el Sol y es esférico, pero no ha limpiado su órbita.</li>\n<li><strong>Rotación</strong>: Movimiento de un planeta al girar sobre su propio eje. Determina la duración del día.</li>\n<li><strong>Satélite</strong> <strong>natural</strong>: Cuerpo celeste sólido que orbita alrededor de un planeta.</li>\n<li><strong>Traslación</strong>: Movimiento de un planeta alrededor del Sol. Determina la duración del año.</li>\n<li><strong>Unidad Astronómica (UA)</strong>: Unidad de distancia equivalente a la distancia media entre la Tierra y el Sol (aprox. 150 millones de km). Es la medida estándar dentro de nuestro Sistema Solar.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778699933792-3ydxmot2k</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Demuestra lo que has aprendido ;)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Demuestra lo que has aprendido ;)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Demuestra lo que has aprendido ;)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778699933792-3ydxmot2k</odePageId>
+      <odeBlockId>block-1778699986081-3j4ztsjy9</odeBlockId>
+      <blockName>Adivina adivinanza</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778699933792-3ydxmot2k</odePageId>
+          <odeBlockId>block-1778699986081-3j4ztsjy9</odeBlockId>
+          <odeIdeviceId>idevice-1778699986079-gxyc4soje</odeIdeviceId>
+          <odeIdeviceTypeName>guess</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="adivina-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778699986079-gxyc4soje" data-evaluationb="false" data-evaluationid="cf8086ff-67e7-4806-b0b5-6a1245716a28"></div><div class="adivina-version js-hidden">2</div><div class="adivina-feedback-game"></div><div class="adivina-instructions gameQP-instructions"><p>Una vez escuchados los podcast, intenta <strong>adivinar</strong> los siguientes <strong>planetas</strong> de los que se habla.</p></div><div class="adivina-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C7%FC%F3%B2%E4%F7%E8%B2%F7%E1%F1%E7%F1%FA%F3%F6%FD%E1%B2%FE%FD%E1%B2%E2%FD%F6%F1%F3%E1%E6%BE%B2%FB%FC%E6%F7%FC%E6%F3%B2%AE%E1%E6%E0%FD%FC%F5%AC%F3%F6%FB%E4%FB%FC%F3%E0%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%FE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%AE%E1%E6%E0%FD%FC%F5%AC%E2%FE%F3%FC%F7%E6%F3%E1%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%F6%F7%B2%FE%FD%E1%B2%E3%E7%F7%B2%E1%F7%B2%FA%F3%F0%FE%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%E6%FB%FF%F7%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%A1%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A2%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%FD%EB%B2%F7%FE%B2%E2%FE%F3%FC%F7%E6%F3%B2%FFs%E1%B2%F5%E0%F3%FC%F6%F7%B2%F6%F7%B2%E6%FD%F6%FD%B2%F7%FE%B2%E1%FB%E1%E6%F7%FF%F3%B2%E1%FD%FE%F3%E0%B2%EB%B2%E6%F7%FC%F5%FD%B2%E7%FC%F3%B2%CE%B0%D5%E0%F3%FC%B2%DF%F3%FC%F1%FA%F3%B2%C0%FD%F8%F3%CE%B0%B2%E3%E7%F7%B2%F7%E1%BE%B2%F7%FC%B2%E0%F7%F3%FE%FB%F6%F3%F6%BE%B2%E7%FC%F3%B2%E6%FD%E0%FF%F7%FC%E6%F3%B2%F5%FB%F5%F3%FC%E6%F7%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D8h%E2%FB%E6%F7%E0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%E7%FC%E3%E7%F7%B2%E1%FD%EB%B2%F7%FE%B2%E1%F7%F5%E7%FC%F6%FD%B2%E2%FE%F3%FC%F7%E6%F3%B2%FFs%E1%B2%F1%F7%E0%F1%F3%FC%FD%B2%F3%FE%B2%C1%FD%FE%BE%B2%E1%FD%EB%B2%F7%FE%B2%FFs%E1%B2%F1%F3%FE%E7%E0%FD%E1%FD%B2%F6%F7%F0%FB%F6%FD%B2%F3%B2%FF%FB%B2%F6%F7%FC%E1%F3%B2%F3%E6%FFa%E1%F4%F7%E0%F3%B2%F6%F7%B2%F6%FBa%EA%FB%F6%FD%B2%F6%F7%B2%F1%F3%E0%F0%FD%FC%FD%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C4%F7%FC%E7%E1%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%F7%B2%F1%FD%FC%FD%F1%F7%FC%B2%F1%FD%FF%FD%B2%F7%FE%B2%CE%B0%E2%FE%F3%FC%F7%E6%F3%B2%F3%E8%E7%FE%CE%B0%B2%EB%B2%E1%FD%EB%B2%F7%FE%B2h%FC%FB%F1%FD%B2%F6%FD%FC%F6%F7%B2%E1%F7%B2%FA%F3%B2%F1%FD%FC%F4%FB%E0%FF%F3%F6%FD%B2%FE%F3%B2%F7%EA%FB%E1%E6%F7%FC%F1%FB%F3%B2%F6%F7%B2%E4%FB%F6%F3%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FB%F7%E0%E0%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%FD%EB%B2%F4%F3%FF%FD%E1%FD%B2%E2%FD%E0%B2%FF%FB%E1%B2%F7%E1%E2%F7%F1%E6%F3%F1%E7%FE%F3%E0%F7%E1%B2%F3%FC%FB%FE%FE%FD%E1%B2%F1%FD%FF%E2%E7%F7%E1%E6%FD%E1%B2%F6%F7%B2%FA%FB%F7%FE%FD%B2%EB%B2%F4%E0%F3%F5%FF%F7%FC%E6%FD%E1%B2%F6%F7%B2%E0%FD%F1%F3%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%F3%E6%E7%E0%FC%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%FD%EB%B2%E7%FC%B2%E2%FE%F3%FC%F7%E6%F3%B2%F7%FC%F3%FC%FD%B2%E3%E7%F7%B2%FA%F3%E1%E6%F3%B2%F7%FE%B2%F3c%FD%B2%A0%A2%A2%A4%B2%F7%E0%F3%B2%F1%FD%FC%E1%FB%F6%F7%E0%F3%F6%FD%B2%F7%FE%B2%FC%FD%E4%F7%FC%FD%B2%E2%FE%F3%FC%F7%E6%F3%B2%F6%F7%FE%B2%E1%FB%E1%E6%F7%FF%F3%B2%E1%FD%FE%F3%E0%BC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%FE%E7%E6a%FC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%F1%E6%FB%E4%F3%E6%F7%C6%E0%F3%FC%E1%FE%F3%E6%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F1%F4%AA%A2%AA%A4%F4%F4%BF%A4%A5%F7%A5%BF%A6%AA%A2%A4%BF%F0%A2%F0%A7%BF%A4%F3%A3%A0%A6%A7%A5%A3%A4%F3%A0%AA%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A4%AB%AB%AB%AA%A4%A2%A5%AB%BF%F5%EA%EB%F1%A6%E1%FD%F8%F7%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%EF%EF</div><div class="adivina-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778607202423-nno2xixcp</odePageId>
+  <odeParentPageId>dc46f85e-a8a7-42a3-9e4e-308657024de2</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778607202423-nno2xixcp</odePageId>
+      <odeBlockId>block-1778609774058-ko156dqgt</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778607202423-nno2xixcp</odePageId>
+          <odeBlockId>block-1778609774058-ko156dqgt</odeBlockId>
+          <odeIdeviceId>idevice-1778609774058-lqld5mz9z</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Explorando el vecindario cósmico</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SdA para estudiantes</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Eva Martínez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#669c35;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
